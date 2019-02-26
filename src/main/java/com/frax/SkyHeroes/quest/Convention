@@ -1,0 +1,40 @@
+Structor for the Data.yml
+
+
+//
+    kill-for kill quest
+    object-for item quest
+    glyph-for using glyph
+
+//
+
+//
+    side quest-no level expected
+    main quests-level expected
+//
+
+//
+quests:
+ -q1
+ -q2
+ -q3
+
+q1:
+ mission: object
+ amount: redstone
+ crystal: 15000
+ exp: 20000
+
+q2:
+ mission: kill
+ amount: 150
+ crystal: 2000
+ exp: 1000
+
+q3:
+ mission: glyph
+ amount: ninja
+ crystal: 100
+ exp: 100
+
+//

@@ -1,0 +1,43 @@
+name: SkyHeroes
+author: PixelFrax
+version: 0.1
+
+main: com.frax.SkyHeroes.SkyHeroes
+commands:
+  setup:
+    description: setup
+    usage: </command>
+    permission: SkyHeroes.setup
+  top:
+    description: shows the toplist
+    usage: </command>
+  stats:
+    description: see your stats and freinds
+    usage: </command>
+  tutorial:
+    description: see your stats and freinds
+    usage: </command>
+    permission: admin.tutorial
+  test:
+    description: see your stats and freinds
+    usage: </command>
+  island:
+    description: see your stats and freinds
+    usage: </command>
+    permission: SkyHeroes.createIsland
+  bounty:
+    description: see your stats and freinds
+    usage: </command>
+    permission: SkyHeroes.createIsland
+  credits:
+    description: see your stats and freinds
+    usage: </command>
+    permission: SkyHeroes.createIsland
+  social:
+    description: see your stats and freinds
+    usage: </command>
+    permission: SkyHeroes.createIsland
+  item:
+    description: see your stats and freinds
+    usage: </command>
+    permission: SkyHeroes.item
